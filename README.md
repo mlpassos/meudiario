@@ -3,7 +3,7 @@ MeuDiario HTML5 WebApp and Services
 --
 
 TODO:
-- Modelo de Negócios
+- Planejamento e Escopo do Projeto: https://docs.google.com/document/d/1AEe0_BX_6v8eBs1bs3c0D8N9kiQDNvUweAkajglbwho/edit?usp=sharing
 - Modelar Objetos e relacionamentos (UML e Diagramas)
 - Tecnologias (API, Site, Aplicativos)
 - Arquitetura API
